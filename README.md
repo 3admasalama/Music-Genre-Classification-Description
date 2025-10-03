@@ -51,6 +51,11 @@ MFCC-based models: Achieved moderate accuracy, sensitive to dataset balance and 
 
 CNN on spectrograms: Achieved significantly better performance, showing the strength of visual features in music genre classification.
 
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/595ca3a2-1280-4e17-86f1-0c3a77c89c31" />
+
+✅ Predicted genre: country
+
+
 ## **🛠 Requirements**
 
 Python 3.8+
